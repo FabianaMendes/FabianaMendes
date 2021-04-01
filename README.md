@@ -20,5 +20,5 @@
 - :heartbeat: Flerting with UX/UI design
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything!
-- Love technology, movies, series and rock'n'roll
+- :heart_eyes: Love technology, movies, series and rock'n'roll :metal:
 - 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/fabianamoreiramendes), [My E-mail](fabianamendesmg@yahoo.com.br)
