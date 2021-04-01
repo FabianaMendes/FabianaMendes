@@ -1,4 +1,4 @@
-<p align="center"><img src="./background.png" alt="cover" title="Fabi Mendes" border="0"></p>
+<p align="center"><img src="" alt="cover" title="Fabi Mendes" border="0"></p>
 
 ## Hi, I'm Fabiana Mendes. Nice to meet you! 👋
 
