@@ -17,7 +17,7 @@
 
 - 🔭 I am currently working for Oni Web Officer as a frontend developer jr
 - 🌱 I'm always studying JavaScript, ReactJS, CSS & HTML 
-- Flerting with UX/UI design
+- :heartbeat: Flerting with UX/UI design
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything!
 - Love technology, movies, series and rock'n'roll
