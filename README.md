@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQEQJyea2BllIA/profile-displaybackgroundimage-shrink_200_800/0/1617214082126?e=1626307200&v=beta&t=ddfR8B3PcJc2qkqb6J5mj07AFly_KWCOrt3dCOCawSE" alt="cover" title="Fabi Mendes" border="0"></p>
+<p align="center"><img src="https://i.gifer.com/JKkW.gif" alt="cover" title="Fabi Mendes" border="0"></p>
 
 ## Hi, I'm Fabiana Mendes. Nice to meet you! 👋
 
-*I am a frontend developer, currently studying Systems Analysis and Development. I'm passionate about styles, effects, animations and dynamic experiences!❤️* 
+*I'm a frontend developer, currently studying Systems Analysis and Development. I'm passionate about styles, effects, animations and dynamic experiences!❤️* 
 
 
 
@@ -15,9 +15,9 @@
 
 **About me:**
 
-- 🔭 I am currently working as a Front-end Developer
-- 🌱 I'm always studying JavaScript, ReactJS, CSS & HTML 
-- :heartbeat: Flerting with UX/UI design
+- 🔭 I am currently working as a Mobile Developer
+- 🌱 I'm always studying something related to my stack 
+- :heartbeat: Flerting with UX/UI design (Love to use Figma!)
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything!
 - :heart_eyes: Love technology, movies, series and rock'n'roll :metal:
