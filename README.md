@@ -1,4 +1,5 @@
-<p align="center"><img src="https://i.gifer.com/JKkW.gif" alt="cover" title="Fabi Mendes" border="0"></p>
+<p align="center"><img src="https://i.gifer.com/JKkW.gif"></p>
+![](https://i.gifer.com/JKkW.gif)
 
 ## Hi, I'm Fabiana Mendes. Nice to meet you! 👋
 
