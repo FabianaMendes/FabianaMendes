@@ -1,5 +1,4 @@
-<p align="center"><img src="https://i.gifer.com/JKkW.gif"></p>
-![](https://i.gifer.com/JKkW.gif)
+<p align="center"><img src="JKkW.gif"></p>
 
 ## Hi, I'm Fabiana Mendes. Nice to meet you! 👋
 
