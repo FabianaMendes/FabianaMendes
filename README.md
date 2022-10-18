@@ -15,7 +15,7 @@
 
 **About me:**
 
-- 🔭 I am currently working as a Mobile Developer
+- 🔭 I am currently working as a Frontend Software Developer
 - 🌱 I'm always studying something related to my stack 
 - :heartbeat: Flerting with UX/UI design (Love to use Figma!)
 - 💡 I try to help people who are starting in programming
